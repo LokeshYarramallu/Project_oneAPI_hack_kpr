@@ -103,18 +103,15 @@ These optimizations ensure that **HealthAI** delivers fast, reliable, and accura
 - **Kaggle** for the bone fracture detection dataset [here](https://www.kaggle.com/datasets/pkdarabi/bone-fracture-detection-computer-vision-project) and dataset for [symptom to disease training data](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210826192554/Training.csv).
 - **GitHub** for version control.
 - **Open Source Community** including [Llama](https://groq.com/now-available-on-groq-the-largest-and-most-capable-openly-available-foundation-model-to-date-llama-3-1-405b/) and Groq for essential libraries and frameworks.
-- **Team Members** for their hard work and collaboration.
+- **Team Members** for their hard work and collaboration:
 
-To include GitHub usernames with icons, you can format them using GitHub's built-in Markdown, which automatically links usernames when using the `@` symbol. Here's how you can do it:
-  - @[Lokesh Yarramallu]([https://github.com/team_member1](https://github.com/LokeshYarramallu)  
-  - @[Madan Gopal]([https://github.com/team_member2](https://github.com/Madan2248c))  
-  - @[Tarun Sudheer](https://github.com/0x-d15c0)
-  - @[Ajan S](https://github.com/)
-
----
-
-By using `@username`, GitHub will automatically generate links and display the user's GitHub icon when viewed on GitHub. Just replace the placeholders with the actual usernames.
-
+  ![Lokesh Yarramallu](https://github.com/LokeshYarramallu.png?size=40) [@Lokesh Yarramallu](https://github.com/LokeshYarramallu)
+    
+  ![Madan Gopal](https://github.com/Madan2248c)
+  
+  ![Tarun Sudheer](https://github.com/0x-d15c0.png?size=40) [@Tarun Sudheer](https://github.com/0x-d15c0)
+  
+  ![Ajan S](https://github.com/ajan421)
 
 ---
 
