@@ -3,13 +3,8 @@ const { initializeApp } = require('firebase/app');
 const { getDatabase, ref,get,child, set,push} = require('firebase/database');
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDGDy0hwqDIzWgZL3INMTaT5AngP6AKE7A",
-    authDomain: "intelgenai-efc5d.firebaseapp.com",
-    projectId: "intelgenai-efc5d",
-    storageBucket: "intelgenai-efc5d.appspot.com",
-    messagingSenderId: "482118046284",
-    appId: "1:482118046284:web:b4e3187a2915d25c355ae9"
-  };
+<YOUR_FIREBASE_CONFIG>
+};
 
 
 const app = initializeApp(firebaseConfig);
