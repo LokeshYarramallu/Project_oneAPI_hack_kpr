@@ -61,7 +61,7 @@ Here’s the **Technologies Used** section for **HealthAI**, highlighting the ke
 
 The **HealthAI** web application serves as an accessible platform for users to interact with various healthcare features seamlessly. Designed with a user-friendly interface, it allows individuals to input medical queries, analyze symptoms, detect fractures, and gain insights into their prescriptions.
 
-- **Live Demo:** [https://nodejs-server-wc8r.onrender.com/medicalquery]
+- **Live Demo:** [https://nodejs-server-wc8r.onrender.com/]
 - **Source Code:** [https://github.com/LokeshYarramallu/Project_oneAPI_hack_kpr]
 - **Youtube:** [https://youtu.be/oVsafKuqhlM]
 
