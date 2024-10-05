@@ -54,9 +54,6 @@ Here’s the **Technologies Used** section for **HealthAI**, highlighting the ke
 
 - **Flask:** Utilized as the backend framework for handling API requests and serving the web application.
 
----
-
-Here’s the **Website** section for **HealthAI**, where you can provide details about the website, including its purpose and any relevant links or instructions:
 
 ---
 
@@ -66,16 +63,13 @@ The **HealthAI** web application serves as an accessible platform for users to i
 
 - **Live Demo:** [https://nodejs-server-wc8r.onrender.com/medicalquery]
 - **Source Code:** [https://github.com/LokeshYarramallu/Project_oneAPI_hack_kpr]
+- **Youtube:** [https://youtu.be/oVsafKuqhlM]
 
 ### Getting Started
 To explore the application:
 1. Visit the website link.
 2. Create an account or log in to access personalized features.
 3. Use the navigation to explore various tools and functionalities.
-
----
-
-Here’s a more concise **Optimizations** section that still emphasizes the role of the Intel GENAI Toolkit in enhancing **HealthAI**:
 
 ---
 
@@ -105,11 +99,11 @@ These optimizations ensure that **HealthAI** delivers fast, reliable, and accura
 - **Open Source Community** including [Llama](https://groq.com/now-available-on-groq-the-largest-and-most-capable-openly-available-foundation-model-to-date-llama-3-1-405b/) and Groq for essential libraries and frameworks.
 - **Team Members** for their hard work and collaboration:
 
-  ![Lokesh Yarramallu](https://github.com/LokeshYarramallu.png?size=40) [@Lokesh Yarramallu](https://github.com/LokeshYarramallu)
+  ![Lokesh Yarramallu](https://github.com/LokeshYarramallu.png?size=40) [Lokesh Yarramallu](https://github.com/LokeshYarramallu)
     
   ![Madan Gopal](https://github.com/Madan2248c)
   
-  ![Tarun Sudheer](https://github.com/0x-d15c0.png?size=40) [@Tarun Sudheer](https://github.com/0x-d15c0)
+  ![Tarun Sudheer](https://github.com/0x-d15c0.png?size=40) [Tarun Sudheer](https://github.com/0x-d15c0)
   
   ![Ajan S](https://github.com/ajan421)
 
@@ -127,6 +121,10 @@ These optimizations ensure that **HealthAI** delivers fast, reliable, and accura
 ---
 
 ## 📸 Screenshots/Demo
+
+**ARCHITECHTURE**
+
+![image](https://github.com/user-attachments/assets/2e433e1f-a0d4-4eda-896d-9fdaf8758ca0)
 
 *Visuals of the application in action to give users a better understanding of the interface and functionalities.*
 
@@ -149,6 +147,38 @@ These optimizations ensure that **HealthAI** delivers fast, reliable, and accura
 5. **Prescription Analysis Tool:**  
    ![Prescription Analysis](https://github.com/user-attachments/assets/c180088b-ebdc-430f-a3e4-ee2caa699969)  
    Demonstration of the prescription analysis feature, which extracts and analyzes text from prescriptions using Tesseract and Llama 3.1.
+
+## Usage
+
+To Use this project open your terminal and enter the following commands
+
+```bash
+  cd backend/
+  npm install
+  node app.js
+```
+
+In other terminal 
+```bash
+  cd backend/models
+  pip install -r req.txt
+  python app.py
+```
+
+## API and Firebase Configuration Setup
+
+To properly configure your project, follow the steps below:
+
+### 1. Replace <YOUR_GROQ_API>
+- Visit [Groq Console](https://console.groq.com/keys).
+- Generate a new API key.
+- Replace <YOUR_GROQ_API> in the code with your newly generated API key.
+
+### 2. Replace <YOUR_FIREBASE_CONFIG>
+- Go to [Firebase Console](https://console.firebase.google.com/).
+- Navigate to your project and select *Project Settings*.
+- Scroll down to the *Firebase SDK snippet* section and copy your Firebase configuration.
+- Replace <YOUR_FIREBASE_CONFIG> in the code with the copied configuration.
 
 
 ## 🚀 Closing Thoughts
