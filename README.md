@@ -136,17 +136,17 @@ These optimizations ensure that **HealthAI** delivers fast, reliable, and accura
    ![Medical Query](https://github.com/user-attachments/assets/07c5396d-ceed-4c98-99f1-7b4a36ca1824)  
    A demonstration of the system handling both text and voice input for medical queries in multiple languages, using Llama 3.1.
 
-3. **Fracture Detection and Prediction:**  
-   ![Fracture Detection](https://github.com/user-attachments/assets/816b2e74-261f-4815-8f64-4083241acf6d)  
+3. **Fracture Detection and Prediction:** 
+   ![Prescription Analysis](https://github.com/user-attachments/assets/c180088b-ebdc-430f-a3e4-ee2caa699969)  
    Example of the fracture detection interface, where the YOLOv8 model predicts fractures based on user-uploaded X-ray images.
 
-4. **Symptom to Disease Prediction Tool:**  
+5. **Symptom to Disease Prediction Tool:**  
    ![Symptom Prediction](https://github.com/user-attachments/assets/76f86be9-1689-4b25-a02b-8ca4dc3f559b)  
    Interface showing the tool where users input symptoms, and the system predicts possible diseases using SVC, Random Forest, and Naive Bayes classifiers.
 
-5. **Prescription Analysis Tool:**  
-   ![Prescription Analysis](https://github.com/user-attachments/assets/c180088b-ebdc-430f-a3e4-ee2caa699969)  
+6. **Prescription Analysis Tool:**  
    Demonstration of the prescription analysis feature, which extracts and analyzes text from prescriptions using Tesseract and Llama 3.1.
+   ![Fracture Detection](https://github.com/user-attachments/assets/816b2e74-261f-4815-8f64-4083241acf6d)
 
 ## Usage
 
